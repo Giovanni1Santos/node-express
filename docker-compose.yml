@@ -19,5 +19,5 @@ services:
     environment:
       ME_CONFIG_MONGODB_ADMINUSERNAME: root
       ME_CONFIG_MONGODB_ADMINPASSWORD: example
-      ME_CONFIG_MONGODB_URL: mongodb://root:example@mongo:27017/
+      ME_CONFIG_MONGODB_URL: mongodb+srv://giovannileao:y6ty8BHzjDIWEO3e@cluster0.yn8pwrg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
       ME_CONFIG_BASICAUTH: false
